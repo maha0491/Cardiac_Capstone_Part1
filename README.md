@@ -23,7 +23,9 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- Capstone_Part_1.ipynb
+- [Link to notebook 1]()
+- [Link to notebook 2]()
+- [Link to notebook 3]()
 
 
 ##### Contact and Further Information
