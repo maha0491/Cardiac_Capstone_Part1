@@ -23,7 +23,7 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Capstone_Part_1.ipynb]()
+- [Cardiac_Capstone_Part1/Capstone_Part_1.ipynb]()
 
 
 
